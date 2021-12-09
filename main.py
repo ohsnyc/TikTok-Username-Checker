@@ -35,7 +35,7 @@ class Checker:
 
 
 if __name__ == '__main__':
-    system('cls && title TikTok Username Checker by NightfallGT and github.com/sql69')
+    system('cls && title snyc#0001')
 
     with open('usernames.txt', encoding='UTF-8') as f:
         username_list = [line.strip() for line in f]
